@@ -1,8 +1,8 @@
 {
-	"title": "OpenLinks",
+	"title": "Link Page",
 	"description": "Free JSON-Driven template for Astro.",
 	"url_base": "https://yoursite.com",
-	"theme": "forest",
+	"theme": "ocean",
 	"footer": "footer",
 	"profile":
 		{
