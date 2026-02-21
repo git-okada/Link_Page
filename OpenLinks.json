@@ -2,36 +2,26 @@
 	"title": "OpenLinks",
 	"description": "Free JSON-Driven template for Astro.",
 	"url_base": "https://yoursite.com",
-	"theme": "brutalism",
-	"footer": "Made with ❤️ by <a href='https://e10y.dev'>E10Y</a>",
+	"theme": "forest",
+	"footer": "footer",
 	"profile":
 		{
-			"name": "OpenLinks",
+			"name": "ｘｉｐｈｉｏ",
 			"avatar": "avatar/Avatar.webp",
-			"description":"OpenSource JSON-driven",
+			"description":"My Pages",
 			"adult": false
 		}
 	,
 	"links": [
 		{
-			"name": "GitHub",
-			"url": "https://github.com/E10YDEV/OpenLinks",
-			"icon": "/icons/GitHub.svg"
+			"name": "xiphio備忘録",
+			"url": "https://friendly-flute-9c4.notion.site/xiphio-2cf7a1d47f7080d2b5eacf9ff28531a0",
+			"icon": "/icons/memo.svg"
 		},
 		{
-			"name": "Website",
-			"url": "https://e10y.dev",
-			"icon": "/icons/Web.svg"
-		},
-		{
-			"name": "Instagram",
-			"url": "#",
-			"icon": "/icons/Instagram.svg"
-		},
-		{
-			"name": "Twitter",
-			"url": "#",
-			"icon": "/icons/X.svg"
+			"name": "xiphioワイン記録簿",
+			"url": "https://friendly-flute-9c4.notion.site/xiphio-2c17a1d47f708064ac02cc9d7d4a3457",
+			"icon": "/icons/wine-drink-glass.svg"
 		},
 		{
 			"name": "Mail",
