@@ -2,12 +2,12 @@
 	"title": "Link Page",
 	"description": "Free JSON-Driven template for Astro.",
 	"url_base": "https://yoursite.com",
-	"theme": "ocean",
+	"theme": "original",
 	"footer": "footer",
 	"profile":
 		{
 			"name": "ｘｉｐｈｉｏ",
-			"avatar": "avatar/Avatar.webp",
+			"avatar": "avatar/xiphio.jpg",
 			"description":"My Pages",
 			"adult": false
 		}

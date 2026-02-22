@@ -1,4 +1,10 @@
 export const themes = {
+  original: {
+    background: 'text-white bg-gradient-to-br from-blue-900 via-cyan-800 to-blue-900',
+    avatar: 'w-40 h-40 mx-auto rounded-xl border-4 border-white/20 bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center',
+    links_button: 'bg-white/10 border border-white/20 rounded-lg p-4 cursor-pointer hover:bg-cyan-700/30 transition-all duration-200 glass group',
+    links_text: 'text-white font-medium group-hover:text-cyan-200 transition-colors',
+  },
   default: {
     background: 'bg-gradient-to-br text-white from-slate-900 via-purple-900 to-slate-900',
     avatar: 'w-24 h-24 mx-auto rounded-full border-4 border-white/20 bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center',
